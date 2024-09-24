@@ -13615,7 +13615,7 @@ blockquote .text {
 
 /* Preload 
 ------------------------------------------- */
-.preload-wrapper .preload-container {
+/* .preload-wrapper .preload-container {
   display: flex;
 }
 
@@ -13634,7 +13634,7 @@ blockquote .text {
   align-items: center;
   justify-content: center;
   overflow: hidden;
-}
+} */
 
 .spinner {
   width: 60px;
